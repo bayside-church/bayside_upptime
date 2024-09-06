@@ -5,6 +5,8 @@ repo: bayside_upptime # The name of this repository
 sites:
   - name: Bayside Rock External
     url: https://my.baysideonline.com
+  - name: Bayside Rock Stage
+    url: https://stage-staff.baysideonline.com
   - name: Bayside Wordpress
     url: https://www.baysideonline.com
 
