@@ -4,18 +4,19 @@
     "url": "https://my.baysideonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.baysideonline.com.ico",
     "slug": "bayside-rock-external",
-    "status": "up",
-    "uptime": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 354,
     "timeDay": 444,
     "timeWeek": 345,
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2024-09-08": 20
     }
   },
