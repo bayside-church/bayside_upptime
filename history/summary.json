@@ -25,7 +25,7 @@
     "url": "https://stage-staff.baysideonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/stage-staff.baysideonline.com.ico",
     "slug": "bayside-rock-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 241,
     "timeMonth": 310,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-18": 0
+    }
   },
   {
     "name": "Bayside Wordpress",
